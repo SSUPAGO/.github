@@ -18,7 +18,7 @@
 </details>
 <details>
     <summary>
-    <h4>개발 환경 및 언어</h4></summary>
+    <h4> Development environment</h4></summary>
 
 ![image](https://user-images.githubusercontent.com/50352139/190885529-80c8d535-a69e-4fe5-bede-90debc2f9236.png)
 

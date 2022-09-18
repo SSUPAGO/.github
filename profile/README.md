@@ -1,4 +1,12 @@
-## 혐오/차별 발언 필터링 서비스 SSUPAGO
+<h2 align="center">SSUPAGO </h2>
+<h3 align="center">혐오/차별 발언 필터링 서비스 🤬->😊</h3>
+
+<p align="center">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSSUPAGO&count_bg=%23F23064&title_bg=%23254159&icon=&icon_color=%23E7E7E7&title=%E2%9D%A4%EF%B8%8F&edge_flat=false"/>
+</p>
+
+
+
 ![팀이미지](https://user-images.githubusercontent.com/50352139/190885285-ed29d912-1c9f-4ac9-8369-523aa1d6376f.jpg)
 
 
@@ -19,6 +27,11 @@
 <details>
     <summary>
     <h4> Development environment</h4></summary>
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-%298729.svg?style=flat-square&logo=Gunicorn&logoColor=white)
+![Nginx](https://img.shields.io/badge/NGINX-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 ![image](https://user-images.githubusercontent.com/50352139/190885529-80c8d535-a69e-4fe5-bede-90debc2f9236.png)
 

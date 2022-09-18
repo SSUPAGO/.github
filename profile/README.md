@@ -6,8 +6,10 @@
 </p>
 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/50352139/190885285-ed29d912-1c9f-4ac9-8369-523aa1d6376f.jpg" />
+</p>
 
-![팀이미지](https://user-images.githubusercontent.com/50352139/190885285-ed29d912-1c9f-4ac9-8369-523aa1d6376f.jpg)
 
 
 <details>

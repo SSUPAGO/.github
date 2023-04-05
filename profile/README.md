@@ -26,9 +26,9 @@
 이에 슈파고 팀은 한국어를 기반으로 한 혐오 발언 필터링 서비스를 제공하고자 한다. 혐오 및 차별 발언을 분류해 낼 수 있는 딥러닝 모델을 구축하고 모델의 입력과 출력값을 HTTP 통신을 통해 전달할 수 있도록 하였다. API 방식으로 모델을 어디서나 사용할 수 있게 함으로써 사용자의 접근성과 활용성을 높인다. 또한, 한국어 기반 자연어 처리에 특화된 BERT 구조의 모델을 구축함으로써 더욱더 높은 정확도를 갖춘 서비스를 제공할 수 있도록 한다. 
     
 </details>
-<details>
-    <summary>
-    <h4> Development environment</h4></summary>
+
+
+<h4> Development environment</h4></summary>
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-%298729.svg?style=flat-square&logo=Gunicorn&logoColor=white)
@@ -36,5 +36,3 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 ![image](https://user-images.githubusercontent.com/50352139/190885529-80c8d535-a69e-4fe5-bede-90debc2f9236.png)
-
-</details>

@@ -24,6 +24,12 @@
 
 이러한 문제 해결을 위해 신고제와 같은 여러 법안이 제안되고 있지만, 사람들의 자발적 신고에만 의존하거나 제대로 된 시스템 구축이 어렵다는 한계에 부딪히고 있다. 
 이에 슈파고 팀은 한국어를 기반으로 한 혐오 발언 필터링 서비스를 제공하고자 한다. 혐오 및 차별 발언을 분류해 낼 수 있는 딥러닝 모델을 구축하고 모델의 입력과 출력값을 HTTP 통신을 통해 전달할 수 있도록 하였다. API 방식으로 모델을 어디서나 사용할 수 있게 함으로써 사용자의 접근성과 활용성을 높인다. 또한, 한국어 기반 자연어 처리에 특화된 BERT 구조의 모델을 구축함으로써 더욱더 높은 정확도를 갖춘 서비스를 제공할 수 있도록 한다. 
+
+The term “Era of Hate” reflects the growing seriousness of hatred that has taken root in our society today. While the issue of hate has long been discussed, it has become increasingly severe with defamation cases arising from online news comments on portal sites, social media, and communities; hate speech against people with disabilities sparked by protests led by the Solidarity Against Disability Discrimination (SADD); and hate crimes. Furthermore, accountability for hate crimes and preventive measures remain highly insufficient in reality. In response, this project aims to confront these problems and address them using AI and deep learning technologies.
+
+Before proceeding with the project, we analyzed real-world cases and statistical data related to the seriousness of hate in our society. The findings revealed not only the dangers of such problems but also the severe issue of perception bias among people who fail to recognize these risks. A representative example is the surge in anti-Asian hate crimes following COVID-19. Asians abroad were increasingly subjected to hate crimes and hate speech, and this trend was mirrored in Korea. According to The Hankyoreh, after the first confirmed COVID-19 cases in Korea, online hate speech against Chinese people rose sharply.
+
+Although various legislative measures such as reporting systems have been proposed to address these problems, they face limitations by relying solely on voluntary reports from individuals or the lack of proper system implementation. To tackle these challenges, Team Supago has developed a Korean-language-based hate speech filtering service. The system classifies hate and discriminatory expressions through a deep learning model and enables communication of input and output values via HTTP. By providing the model in an API format, the service enhances accessibility and usability for users anywhere. Moreover, by building the model on a BERT architecture specialized for Korean natural language processing, the system ensures higher accuracy and more reliable service delivery.
     
 </details>
 
